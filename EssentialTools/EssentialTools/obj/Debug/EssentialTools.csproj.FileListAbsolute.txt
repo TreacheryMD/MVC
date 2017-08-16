@@ -64,7 +64,14 @@ C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\bin\System.Web
 C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\bin\System.Web.Webpages.Razor.xml
 C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\bin\System.Web.Helpers.xml
 C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\bin\System.Web.Mvc.xml
-C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\obj\Debug\EssentialTools.csprojResolveAssemblyReference.cache
 C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\obj\Debug\EssentialTools.csproj.CoreCompileInputs.cache
 C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\obj\Debug\EssentialTools.dll
 C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\obj\Debug\EssentialTools.pdb
+C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\bin\Ninject.dll
+C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\bin\Ninject.Web.Common.dll
+C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\bin\Ninject.Web.Mvc.dll
+C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\bin\WebActivatorEx.dll
+C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\bin\Ninject.xml
+C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\bin\Ninject.Web.Common.xml
+C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\bin\Ninject.Web.Mvc.xml
+C:\Users\idraganel\source\repos\MVC\EssentialTools\EssentialTools\obj\Debug\EssentialTools.csprojResolveAssemblyReference.cache
